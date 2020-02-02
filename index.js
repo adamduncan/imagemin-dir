@@ -10,7 +10,6 @@ module.exports = async (input = [], options = {}) => {
         const { destination } = options;
         const fileParts = file.split(path.sep);
         const outputDestination = path.join(
-          __dirname,
           destination,
           fileParts.slice(1, fileParts.length - 1).join(path.sep)
         );
