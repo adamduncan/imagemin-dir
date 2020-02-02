@@ -1,0 +1,30 @@
+{
+  "name": "imagemin-dir",
+  "version": "1.0.0-alpha.0",
+  "description": "Minify images while preserving directory structure",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adamduncan/imagemin-dir.git"
+  },
+  "bugs": {
+    "url": "https://github.com/adamduncan/imagemin-dir/issues"
+  },
+  "homepage": "https://github.com/adamduncan/imagemin-dir#readme",
+  "keywords": [
+    "minify",
+    "compress",
+    "image",
+    "images",
+    "jpeg",
+    "jpg",
+    "png",
+    "gif",
+    "svg"
+  ],
+  "author": "Adam Duncan <mail@adamduncandesigns.com>",
+  "license": "MIT"
+}
